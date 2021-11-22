@@ -11,11 +11,11 @@ TCGA Clustering
 ## Folder Structure:
 
 #### Data
-data_retrieval: Notebook for retrieving data using xenaPython API
- \n sample_categories: Notebook for matching TCGA samples with corresponding cancer categories
+data_retrieval: Notebook for retrieving data using xenaPython API\
+sample_categories: Notebook for matching TCGA\ samples with corresponding cancer categories
 #### Modelling
-Clustering_tcga: Notebook with clustering on tcga samples \n
-Supervised_healthy_vs_unhealthy: Notebook for classifying TCGA (cancerous) vs GTEx(healthy) samples \n
+Clustering_tcga: Notebook with clustering on tcga samples\
+Supervised_healthy_vs_unhealthy: Notebook for classifying TCGA (cancerous) vs GTEx(healthy) samples\
 Supervised_categories: Notebook with multi-class classification of samples into cancer categories
 #### Presentations
 Contains presentations of the findings
